@@ -1,0 +1,1174 @@
+[
+    {
+        "p_id": 1,
+        "p_name": "Honda Accord",
+        "p_cost": 20500,
+        "p_cat": "SUV",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://imgd.aeplcdn.com/227x128/cw/ec/21613/Honda-Accord-Right-Front-Three-Quarter-82683.jpg?wm=0&q=80"
+    },
+    {
+        "p_id": 2,
+        "p_name": "Tesla Model S",
+        "p_cost": 21000,
+        "p_cat": "Truck",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEr5NHD5Ulm1Ef4gLk9g87FFssWZM6ZT8Lxtg0JddzynHOC0UNrwI2tufw6HEL"
+    },
+    {
+        "p_id": 3,
+        "p_name": "Ford F-150",
+        "p_cost": 21500,
+        "p_cat": "Electric",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxUoaqqeUIGr91nRB3LZzVBzzXGAox9PpKcWz_leFpUJg-p0LdGHdcXhVGT-17"
+    },
+    {
+        "p_id": 4,
+        "p_name": "Chevrolet Silverado",
+        "p_cost": 22000,
+        "p_cat": "Truck",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEsBclzElNiOgnvFgzgV_-6fXYEo46vUlYvK-E_Yq-5JHYa3_Z_MPojmQmrFmU"
+    },
+    {
+        "p_id": 5,
+        "p_name": "BMW 3 Series",
+        "p_cost": 22500,
+        "p_cat": "Sports",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0Z3_DO_IV2MEzuqZ2XhxcqGSqCeycxZTn_5CpLOFkxG3FSz-bQQSnCAEWWXV"
+    },
+    {
+        "p_id": 6,
+        "p_name": "Audi Q5",
+        "p_cost": 23000,
+        "p_cat": "Sedan",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREfXmTnqQn9f4wDYcUTW-eTGzWh2bnJhbucbOEPPCPHc50GMsBNS7PETyvkQqu"
+    },
+    {
+        "p_id": 7,
+        "p_name": "Mercedes-Benz C-Class",
+        "p_cost": 23500,
+        "p_cat": "SUV",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTolrMRJo3C9DWGNIo_QfJ7PG7dg_mDogtQXzM9wQIUoMIBm1e3Nc9DMyEOvEH0"
+    },
+    {
+        "p_id": 8,
+        "p_name": "Subaru Outback",
+        "p_cost": 24000,
+        "p_cat": "SUV",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpzsH7RxiVtxneHxn9S9lp_PDep4Y5npISSbhZvUs3jl9JRPvh2GGAmu6K-bhq"
+    },
+    {
+        "p_id": 9,
+        "p_name": "Jeep Wrangler",
+        "p_cost": 24500,
+        "p_cat": "ElectriC",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrgA9nS2fgTkqP7FKj4T0SV7wuvKqjsgB4zihhbh9VJ8sXFYwNYEkFU7jNPsq"
+    },
+    {
+        "p_id": 10,
+        "p_name": "Nissan Altima",
+        "p_cost": 25000,
+        "p_cat": "Luxury",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRNuh4iFrQPueta_M3aoW9AIYr6SwQE1VsOk8NoTZzjM7z_xr-4ICxeJ5VAiW"
+    },
+    {
+        "p_id": 11,
+        "p_name": "Hyundai Sonata",
+        "p_cost": 25500,
+        "p_cat": "Sports",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2UPzJeNVGhY2u5a3XYFZJpTRNevD99odB78ULLTuRWgCGamlTEaUMxuaYXYxL"
+    },
+    {
+        "p_id": 12,
+        "p_name": "Kia Sorento",
+        "p_cost": 26000,
+        "p_cat": "Sedan",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7Ho_pRmbCdrTAJ858KeNWykfSH0Kjxi2yjsso4g4vaTYOsIajnUuUuXwb9Nbn"
+    },
+    {
+        "p_id": 13,
+        "p_name": "Mazda CX-5",
+        "p_cost": 26500,
+        "p_cat": "SUV",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS783NEf24GgfcvrLqtwg6S1vxbYIU4Q1AikZtGdQ16nhH_JAvw-6Fjtr4CekKg"
+    },
+    {
+        "p_id": 14,
+        "p_name": "Volkswagen Golf",
+        "p_cost": 27000,
+        "p_cat": "Truck",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRFz-U6HT-9uQu5lQhGdJPBi97rMI5xn9Ma76wtKC5eIK-IJufjp_5gBQOOcq"
+    },
+    {
+        "p_id": 15,
+        "p_name": "Volvo XC60",
+        "p_cost": 27500,
+        "p_cat": "Electric",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-g0xILGM9sSkgZE5ORMl4fEk1t3zU11QnBOXmDkgvD-SYGJ7SuhjZF0Gz2nYp"
+    },
+    {
+        "p_id": 16,
+        "p_name": "Lexus RX",
+        "p_cost": 28000,
+        "p_cat": "Luxury",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWZVF4OdbiBoJOjyU2eI6ErpBIYhFLPADzLFcsVQb9SWLWrZxyEVso6ePmK-Zv"
+    },
+    {
+        "p_id": 17,
+        "p_name": "Acura MDX",
+        "p_cost": 28500,
+        "p_cat": "Sports",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqkcahXN7fBuZhFyYExdv-LhDdxFksY7y_FxCqzWcr76GOAY1q0xMOXqDapg_L"
+    },
+    {
+        "p_id": 18,
+        "p_name": "Infiniti QX60",
+        "p_cost": 29000,
+        "p_cat": "Sedan",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybsTzQiE6EoSgeyv6Lwr5fFvGe76m3lHk1SDtDLpt0-pmiLsHvxumBBDiD2rD"
+    },
+    {
+        "p_id": 19,
+        "p_name": "Cadillac Escalade",
+        "p_cost": 29500,
+        "p_cat": "SUV",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKwkWixZfOmg4CLYdk6euv8pFpOXFRwY98QP7pBkWaElEyQsdhLi-JGksLAGc"
+    },
+    {
+        "p_id": 20,
+        "p_name": "Jaguar F-Pace",
+        "p_cost": 30000,
+        "p_cat": "Truck",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGtOq3Jk9eKEovagN6bi3aRvas3vZXTDzITsjUuhMCpiL6HUxRIZiou6FRihAi"
+    },
+    {
+        "p_id": 21,
+        "p_name": "Land Rover Discovery",
+        "p_cost": 30500,
+        "p_cat": "Electric",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRek_Sfm3vnJf85gjm151SivuI4Y_4Wyexd36i7AFtETiaPLa7eSmoxhTIZv65"
+    },
+    {
+        "p_id": 22,
+        "p_name": "Alfa Romeo Giulia",
+        "p_cost": 31000,
+        "p_cat": "Luxury",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy6n7QBxzZqQPDaSF_fM_0Oehji1VJ87-49nhAXaWU62lpEDqw2f8WSnjN55Ra"
+    },
+    {
+        "p_id": 23,
+        "p_name": "Fiat 500",
+        "p_cost": 31500,
+        "p_cat": "Sports",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMehloMMwHILBYAPDvyhH-nippx4XhkrcokHex7HbytpOndbyI5aLLc5WviIOk"
+    },
+    {
+        "p_id": 24,
+        "p_name": "Mitsubishi Outlander",
+        "p_cost": 32000,
+        "p_cat": "Sedan",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI6Q3zPz4lnVNCd_SDV7XllqLbtsmlVHfoBAK8GuLA-EyTkL43jJaqpZjFCDpB"
+    },
+    {
+        "p_id": 25,
+        "p_name": "Mini Cooper",
+        "p_cost": 32500,
+        "p_cat": "SUV",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6A8jN2L3M3viFLk4Y0eLHAc0TW1v7JEWzTMB2lXM-5wxnfPJD771_ScizSrL"
+    },
+    {
+        "p_id": 26,
+        "p_name": "Porsche Cayenne",
+        "p_cost": 33000,
+        "p_cat": "Truck",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoEa9ZFwaId_EZSQpYxMbw97uVDBNdC6MRv2m4io1JqZP8o4pL_IauHvuw5UeR"
+    },
+    {
+        "p_id": 27,
+        "p_name": "Maserati Ghibli",
+        "p_cost": 33500,
+        "p_cat": "Electric",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRFJg0-K715pz8cV2RwENxWsWK0SfhffBfMspUw2bvXAte01MV-2ZD3Jbjbfl-"
+    },
+    {
+        "p_id": 28,
+        "p_name": "Ferrari 488",
+        "p_cost": 34000,
+        "p_cat": "Luxury",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThh3N8PLZ6oonKm5ql3_DaCLwSK3-T43GihKEnfobk4aABxlV41PNXWZWCCC8C"
+    },
+    {
+        "p_id": 29,
+        "p_name": "Lamborghini Huracan",
+        "p_cost": 34500,
+        "p_cat": "Sports",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrfCqDig3rs5CG4Wv6c9UbLoIY1vfF70aaOvQa6JOTIVXhIdvy2-dpmCj4ect3"
+    },
+    {
+        "p_id": 30,
+        "p_name": "Bentley Continental",
+        "p_cost": 35000,
+        "p_cat": "Sedan",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6ZGp-YJocIQkGtO3qwU8BI-3Yxqu8N4w58BYh30mj60ZCkybqWY462-REC6G"
+    },
+    {
+        "p_id": 31,
+        "p_name": "Aston Martin DB11",
+        "p_cost": 35500,
+        "p_cat": "SUV",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5ZXrjn8YfaBnpzQdLdgJWEE5MAgbBf8PSn7zGSXR5DBgUL-rEoljE09D5I6yq"
+    },
+    {
+        "p_id": 32,
+        "p_name": "Rolls-Royce Phantom",
+        "p_cost": 36000,
+        "p_cat": "Truck",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiXgQMNN5jDU95AtSmKI-6N5h14pSg_QwXHeh3AYVAofZz1E8aXlN7I20gfQPP"
+    },
+    {
+        "p_id": 33,
+        "p_name": "McLaren 720S",
+        "p_cost": 36500,
+        "p_cat": "Electric",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnObhK0ErXmshaCqkV5eGX6OqdBJacc7f3zzKjDCY4BpeelVy_wNh1zAE5RW4r"
+    },
+    {
+        "p_id": 34,
+        "p_name": "Pagani Huayra",
+        "p_cost": 37000,
+        "p_cat": "Luxury",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGRPzp0zxZpewiWDe9SBHuyGfw2bE93BkHKyb3zcSYry9p7h95J6WGbrFiVRM"
+    },
+    {
+        "p_id": 35,
+        "p_name": "Bugatti Chiron",
+        "p_cost": 37500,
+        "p_cat": "Sports",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI9Tc4m6fu4TpbDAm-A67SI6YB0s7dIPgQOWB1dMgCkAV2z2Vyp01jFGls9W1b"
+    },
+    {
+        "p_id": 36,
+        "p_name": "Honda Civic",
+        "p_cost": 38000,
+        "p_cat": "Sedan",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGLABxiYjq5l_HHqCzFvy7zmxU_ibBB3wJ90a5xjnt9fM_ScTlktGJZm7bK0xs"
+    },
+    {
+        "p_id": 37,
+        "p_name": "Toyota Corolla",
+        "p_cost": 38500,
+        "p_cat": "SUV",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDbWZnvlU0aMvz9fOswiE3av0euBxjKd1SIrNOZtglxTNNVhz-83sY3dZmvl2t"
+    },
+    {
+        "p_id": 38,
+        "p_name": "Ford Mustang",
+        "p_cost": 39000,
+        "p_cat": "Truck",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnAJXRGaoThV6KE1EViCzqgz9u2XJQ797-2YFEAAoJgSMqWXflvuw2ZxDqggA0"
+    },
+    {
+        "p_id": 39,
+        "p_name": "Chevrolet Camaro",
+        "p_cost": 39500,
+        "p_cat": "Electric",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSsGwmRHipfhr5bdlpzU5nRD47JepKu0UcNnc_yxEdMT68ZpSMiTLA5Ohe1AI"
+    },
+    {
+        "p_id": 40,
+        "p_name": "Dodge Charger",
+        "p_cost": 40000,
+        "p_cat": "Luxury",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNmA3F34bZGioBAcaeMWyGY6ePzQ5KhAgGdnxDTHBlFDfSyI1eUmP1pplk8bZ9"
+    },
+    {
+        "p_id": 41,
+        "p_name": "Tesla Model 3",
+        "p_cost": 40500,
+        "p_cat": "Sports",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH6mvyUM6FbwCRyVSyLlgIjKT84Okw_314v71ZQb6xLWHQfv82iP0bRSE3tDgm"
+    },
+    {
+        "p_id": 42,
+        "p_name": "Tesla Model X",
+        "p_cost": 41000,
+        "p_cat": "Sedan",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDyJ6L20QhqSZQ9vU8Mppikhy9qJrpIO2-1SUL9R8dDcbog2RQa0UgXCdTc3G"
+    },
+    {
+        "p_id": 43,
+        "p_name": "Tesla Model Y",
+        "p_cost": 41500,
+        "p_cat": "SUV",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrPRuGc3P7iT51QBN2Las3j4HtSWo9FOSSk8NYQGoLqh3c_frApbkwW2WDgXiO0"
+    },
+    {
+        "p_id": 44,
+        "p_name": "BMW X5",
+        "p_cost": 42000,
+        "p_cat": "Truck",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhJCTFMgNHsISxrNaUpkYb0YJ7y4IHgBAkwA8PF7IPzzjgDkLkWo44F4CKECSC"
+    },
+    {
+        "p_id": 45,
+        "p_name": "Audi A4",
+        "p_cost": 42500,
+        "p_cat": "Electric",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtosx2EDnkO67yS6EzowE41NDorYaCGMrokrdDqtyK61sopg-oNrbsRIrbgj_"
+    },
+    {
+        "p_id": 46,
+        "p_name": "Mercedes-Benz E-Class",
+        "p_cost": 43000,
+        "p_cat": "Luxury",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNMyQvIA6o0ydVTiVBWRbjU3sbKwK5JmaurvSa2OvmyXca_JtN8R5UNGG0jGTI"
+    },
+    {
+        "p_id": 47,
+        "p_name": "Subaru Impreza",
+        "p_cost": 43500,
+        "p_cat": "Sports",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz4rQlIE04jb5YDZId_8RI2UKtL6XziTe56w6Muuu6CBVwpoMdMsv-z4MI_QNr"
+    },
+    {
+        "p_id": 48,
+        "p_name": "Jeep Grand Cherokee",
+        "p_cost": 44000,
+        "p_cat": "Sedan",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6Yaeu0ZfX1meSIuEJdp2vnYrwhXYqlANhKdVMLmzxMM_PLKS4YJGBGCAtvgYX"
+    },
+    {
+        "p_id": 49,
+        "p_name": "Toyota Highlander",
+        "p_cost": 44500,
+        "p_cat": "SUV",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8wmGUJw7Z8Eb0SSQn5gQg3UGZwzWhJ51wNZB8bgTe9rSrkYRxK_thRq2ASGYk"
+    },
+    {
+        "p_id": 50,
+        "p_name": "Nissan Rogue",
+        "p_cost": 45000,
+        "p_cat": "Truck",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlfKvU1OMFNXGJJ-WXrwgxOYdUf9RSJ87a5VemtrlP4H5rozK7U3Y0fsQN7Ziu"
+    },
+    {
+        "p_id": 51,
+        "p_name": "Hyundai Tucson",
+        "p_cost": 45500,
+        "p_cat": "Electric",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqmJl6uXtr7fUksOfDXzn4cQMeEZhk7KGYq-QW9Ucl9WP3EyEJczyd7I50cko9"
+    },
+    {
+        "p_id": 52,
+        "p_name": "Kia Optima",
+        "p_cost": 46000,
+        "p_cat": "Luxury",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq40iDB9dERNRKfBywikX7UFT6LQi7QNcnRcCQcdOvkVwnFSUg4WovgKNxOppA"
+    },
+    {
+        "p_id": 53,
+        "p_name": "Mazda3",
+        "p_cost": 46500,
+        "p_cat": "Sports",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShnr6FPF8nZXzuX2UlwLjon5U0lfIUWDXIfv-paf5j3KbZcz0RSQa2qRjNS5Lw"
+    },
+    {
+        "p_id": 54,
+        "p_name": "Volkswagen Passat",
+        "p_cost": 47000,
+        "p_cat": "Sedan",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIn2ZfcM6V0YtyaIQwvOecW5dli8DXb8sZRE-EhYC0S39ApB791G8oQ52Cyj3"
+    },
+    {
+        "p_id": 55,
+        "p_name": "Volvo S90",
+        "p_cost": 47500,
+        "p_cat": "Sedan",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmtVpW7mH_UQy1-MHgYer3DaV_I-Xy6fD5nSnMBxnNMyDKiw6OlS3_Fa-Ho4c"
+    },
+    {
+        "p_id": 56,
+        "p_name": "Lexus ES",
+        "p_cost": 48000,
+        "p_cat": "Sedan",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOITgMzCqkSI34WBoZhEfKQHL10tx-WRiItHhcC3mQMrSt3H6Ecl34vZu1myhz"
+    },
+    {
+        "p_id": 57,
+        "p_name": "Acura TLX",
+        "p_cost": 48500,
+        "p_cat": "Electric",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2h9IERtG5XEKyj69y9gzPXsEdj73NLFA-XksXI2snbPP_5RQRmLf8oMewFZKc"
+    },
+    {
+        "p_id": 58,
+        "p_name": "Infiniti Q50",
+        "p_cost": 49000,
+        "p_cat": "Luxury",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbVNVowPQCoMBktSfhOV5MJC3rb_-7qqQzoH6qY_iDVHExjToFTramZF0rWYJ_"
+    },
+    {
+        "p_id": 59,
+        "p_name": "Cadillac XT5",
+        "p_cost": 49500,
+        "p_cat": "Sports",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIFQmwmbomoNlB8CZo4XsGibxguWn_TqjDS-NCsI-kPiSrG0gitkoc3_oj_p20"
+    },
+    {
+        "p_id": 60,
+        "p_name": "Jaguar XE",
+        "p_cost": 50000,
+        "p_cat": "Sedan",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSigwgIDZI99UZaB6ySlGKi3f251E-HGoTHlvShL8hfWXrrGe5sEqauNkw9ZoLT"
+    },
+    {
+        "p_id": 61,
+        "p_name": "Land Rover Range Rover",
+        "p_cost": 50500,
+        "p_cat": "SUV",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi-QAElLIvMJ0D4tMLx1of4LjdsyzXukO3xO-GjQAhOmJ_2VUBRB_KSLqExvjN"
+    },
+    {
+        "p_id": 62,
+        "p_name": "Alfa Romeo Stelvio",
+        "p_cost": 51000,
+        "p_cat": "Truck",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpBxdXGcGLUnaBZnJ-nphNY4VarnnAwVR5HUABDPOFkkvnfRDqrOnVnlWOk0Ks"
+    },
+    {
+        "p_id": 63,
+        "p_name": "Fiat Panda",
+        "p_cost": 51500,
+        "p_cat": "Electric",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2WNZvz7iEIxYL566BzjvN21PW76jFdhzP0ONrcDCJDaURsuvOj3OkYrhlyeU2"
+    },
+    {
+        "p_id": 64,
+        "p_name": "Mitsubishi Eclipse",
+        "p_cost": 52000,
+        "p_cat": "Luxury",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOmZrh4nI1rozlCb7-XQlrtH0gJECuh2RC7_FwuF_N5wHFHkBTSm_wdP65XuW"
+    },
+    {
+        "p_id": 65,
+        "p_name": "Mini Countryman",
+        "p_cost": 52500,
+        "p_cat": "Sports",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7jJBKwlJjZ8dyw2nGqnNJxljF7p1kKPdTZ5xnmgEnQQY5hEbqBTBmqBzLJPCa"
+    },
+    {
+        "p_id": 66,
+        "p_name": "Porsche 911",
+        "p_cost": 53000,
+        "p_cat": "Sedan",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMV6xQb2kNh6aWx04K0_3GbCPg6s0CpEMpwYHscITE0f5cyZEJhNAmMgrXQb5E"
+    },
+    {
+        "p_id": 67,
+        "p_name": "Maserati Levante",
+        "p_cost": 53500,
+        "p_cat": "SUV",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsM1fCw6OUHaX2wGHu3r_YE3EPDw75jwMdbj-rLvlQ3YC8zGfOvJ08i65CfVqp"
+    },
+    {
+        "p_id": 68,
+        "p_name": "Ferrari Portofino",
+        "p_cost": 54000,
+        "p_cat": "Electric",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gNAbif-11HOTHeFvLROCbhxOp68Qp8USnFPt2Qppe_FsI2e3gnz720UtHceE"
+    },
+    {
+        "p_id": 69,
+        "p_name": "Lamborghini Aventador",
+        "p_cost": 54500,
+        "p_cat": "Sports",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQT4cJxDN3RBR7eX3kb2gGzmm6Xms_RSjTTWex0uGasKZAKg5IEUHCJDifxuY"
+    },
+    {
+        "p_id": 70,
+        "p_name": "Bentley Bentayga",
+        "p_cost": 55000,
+        "p_cat": "Luxury",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCqf_Ba0C1KMej4VfPo-qMpHNHd9jd8gZ4FxPGTPS4NAQYdvM2jgu5bqdh4F59"
+    },
+    {
+        "p_id": 71,
+        "p_name": "Aston Martin Vantage",
+        "p_cost": 55500,
+        "p_cat": "Sports",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_6m96gNxJ-ofvY-o1xsta0m52piM72z3yl6VYUanFXqm9c-dqCJtbZas6vOJH"
+    },
+    {
+        "p_id": 72,
+        "p_name": "Rolls-Royce Ghost",
+        "p_cost": 56000,
+        "p_cat": "Sedan",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRESqOCfN9YzDA6iamSCiC2myx52LLyJauepmGlyWrBR31xsk86cG3zuJ21iC_Y"
+    },
+    {
+        "p_id": 73,
+        "p_name": "McLaren GT",
+        "p_cost": 56500,
+        "p_cat": "Sports",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnGndANxqIlNXm0Nd6dDDchYQo8bTgx2rIUMe6f1bHzgZOASXfi2IZUWjZYdrU"
+    },
+    {
+        "p_id": 74,
+        "p_name": "Pagani Zonda",
+        "p_cost": 57000,
+        "p_cat": "Sports",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3N_TeGCGhAr8cO_TssvckmRlfyRudUeHtMdaeiI8Qqw2W74CB6hcwGpnEC1mb"
+    },
+    {
+        "p_id": 75,
+        "p_name": "Bugatti Veyron",
+        "p_cost": 57500,
+        "p_cat": "Sports",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRMPkcz4uQkCWuFNBeIqeidFi_q_4pz1iyreinfquCRxfuPRdXGdC_4gXl3W2C"
+    },
+    {
+        "p_id": 76,
+        "p_name": "Honda HR-V",
+        "p_cost": 58000,
+        "p_cat": "SUV",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYB7qW2XoV29N62N6V6TTnIQBZpioXjuFSXel6YwD4FQWdPWyDsfFOzaeLiBk"
+    },
+    {
+        "p_id": 77,
+        "p_name": "Toyota RAV4",
+        "p_cost": 58500,
+        "p_cat": "SUV",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFFIr3khhEYZ4gLyNtX-bTj2p32KWBS9ZvSVzJYM9gHpDq_vCoa-3lP0MG2_Aj"
+    },
+    {
+        "p_id": 78,
+        "p_name": "Ford Explorer",
+        "p_cost": 59000,
+        "p_cat": "Sedan",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU6UqbcuoKM2dE6tztrQHXcU50cJ0tzv6GdIeHQRja26enbvoFjUTJoc2y7I3Q0"
+    },
+    {
+        "p_id": 79,
+        "p_name": "Chevrolet Tahoe",
+        "p_cost": 59500,
+        "p_cat": "SUV",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa6t914sPb99dTaWrxbCeCzoM0gmbrKZ3TyfK6i-VNfLJmEr6lswkhYRsXyLhh"
+    },
+    {
+        "p_id": 80,
+        "p_name": "Dodge Durango",
+        "p_cost": 60000,
+        "p_cat": "SUV",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8FKfptwm0Xla7aDhVV7YH13kClAle14IqQiOaPdHL_a1hoCa4U0RBTJ4C45I2"
+    },
+    {
+        "p_id": 81,
+        "p_name": "Tesla Roadster",
+        "p_cost": 60500,
+        "p_cat": "Electric",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRet3V_4meFDbS4IppxohGyahKyrmecOmC4I7nSDs4bc9b-YgzB9SBIjwpawSWP"
+    },
+    {
+        "p_id": 82,
+        "p_name": "BMW Z4",
+        "p_cost": 61000,
+        "p_cat": "Luxury",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9S_S29XLuOvCcAgctt6y2uc4-Ht7Xp5AmHqENvm8JdOYqK5soCsQ813_aOecc"
+    },
+    {
+        "p_id": 83,
+        "p_name": "Audi TT",
+        "p_cost": 61500,
+        "p_cat": "Sports",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR587MThmolzCrukkdJ_E9Xz3QKilGHjlWFbhDo5h_gjQo3ttUrh2bY-w0b5tQ0"
+    },
+    {
+        "p_id": 84,
+        "p_name": "Mercedes-Benz G-Class",
+        "p_cost": 62000,
+        "p_cat": "SUV",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbS87UOXw6dwlD8aqMvIxH3zfG1sVAQspjkx02bOjATonB8C4Wo_Ty-9hJbVgW"
+    },
+    {
+        "p_id": 85,
+        "p_name": "Subaru BRZ",
+        "p_cost": 62500,
+        "p_cat": "Sports",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT07KQSGw1Fcy3pUxSy1nVQOYnxPJtTcahnwnq4EtKrvwn4NRINDpk3j-B2IRVw"
+    },
+    {
+        "p_id": 86,
+        "p_name": "Jeep Gladiator",
+        "p_cost": 63000,
+        "p_cat": "Truck",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1IdmuJaKRAMgcuJp-6l00KjObwLWLlJOQTqhz1L8V6pONG9DzhWopzGc7EZRt"
+    },
+    {
+        "p_id": 87,
+        "p_name": "Toyota Tacoma",
+        "p_cost": 63500,
+        "p_cat": "Truck",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAOGNL81pJOyQdQe5BzpYDvjRTwKYl3gMOpQZz-jvTbR7YyRF_dJKCzZ5zsfY7"
+    },
+    {
+        "p_id": 88,
+        "p_name": "Nissan Frontier",
+        "p_cost": 64000,
+        "p_cat": "Truck",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmK7cJNauBcgFgCmmJPYUrLUbXcfRb2uQZh7QYIuzUqMe6s7M1-vcv5m3iaVz5"
+    },
+    {
+        "p_id": 89,
+        "p_name": "Hyundai Kona",
+        "p_cost": 64500,
+        "p_cat": "Sports",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtARVjQVAqXRQOEdim9IY2GiqD4jUAgugb6Ea6duXhRjkWo5aP36gzpVffLLsm"
+    },
+    {
+        "p_id": 90,
+        "p_name": "Kia Stinger",
+        "p_cost": 65000,
+        "p_cat": "Sedan",
+        "p_desc": "A high-performance electric sedan with a long range.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Uz0Hlxywr6zUaI58ZffQs96fgkYpNQoitufBNDhePNSBuX1AEbEi_BtI7YWp"
+    },
+    {
+        "p_id": 91,
+        "p_name": "Mazda MX-5 Miata",
+        "p_cost": 65500,
+        "p_cat": "Sports",
+        "p_desc": "A powerful and versatile pickup truck.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMLNQfAF75nt_5_1j-r202jHxNfR15wR3Ei5YiADlogFlNbaQcIuVafgDKAs5z"
+    },
+    {
+        "p_id": 92,
+        "p_name": "Volkswagen Tiguan",
+        "p_cost": 66000,
+        "p_cat": "Truck",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbuw62owTFbDRIxGIkO2DvtENj6sR6JTMdLfu1d43_nVaIcBo5_ah1NJ61CaCv"
+    },
+    {
+        "p_id": 93,
+        "p_name": "Volvo V60",
+        "p_cost": 66500,
+        "p_cat": "Electric",
+        "p_desc": "A sporty and luxurious compact sedan.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGl05XePV5YdXusavn-5jQhCKMbo2iMmo1kiutujszr1o--xo1uUk7J4Q-rv4s"
+    },
+    {
+        "p_id": 94,
+        "p_name": "Lexus GX",
+        "p_cost": 67000,
+        "p_cat": "Luxury",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR7SSQcLxYc9Y4qdTVs79PRGAxQfM9phsSi2Q2SPBvKHMDdZu6i9Cser2kO3-S"
+    },
+    {
+        "p_id": 95,
+        "p_name": "Acura RDX",
+        "p_cost": 67500,
+        "p_cat": "SUV",
+        "p_desc": "A sophisticated and well-appointed luxury sedan.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUF-ZB1h3oIR6sfDerJBhfd0AC360tRY0vXUEgnb-EfliQG2-grAx-o-M9Hq8w"
+    },
+    {
+        "p_id": 96,
+        "p_name": "Infiniti QX50",
+        "p_cost": 68000,
+        "p_cat": "SUV",
+        "p_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37LD2SlQ52YOexNc111qD21_zXh-4lT9f7Fhl1qw4W6NOXtZyz-BzXGXrBMvy"
+    },
+    {
+        "p_id": 97,
+        "p_name": "Cadillac CT6",
+        "p_cost": 68500,
+        "p_cat": "Sedan",
+        "p_desc": "An iconic off-road vehicle with exceptional capability.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT3JZQtIn_YHr_65ezTUlXbL5tpuIFjgk7S2w5leLZRDFH1F0QvniY-wKTxzXm"
+    },
+    {
+        "p_id": 98,
+        "p_name": "Jaguar XJ",
+        "p_cost": 69000,
+        "p_cat": "Sedan",
+        "p_desc": "A legendary sports car with exceptional performance.",
+        "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BHCyvAh1NeriApTITlVzfWwBn5diJzoPogFPbHEGbfyvwAskw1qYZky95xHH"
+    },
+    {
+        "p_id": 99,
+        "p_name": "Land Rover Defender",
+        "p_cost": 69500,
+        "p_cat": "Sedan",
+        "p_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT296YSAACdfVil4XbywgYjLUdQP85dE5se1grsFZ5BFb_uRHy8kCwlhQxdpFxK"
+    },
+    {
+        "p_id": 100,
+        "p_name": "Alfa Romeo 4C",
+        "p_cost": 70000,
+        "p_cat": "Luxury",
+        "p_desc": "A reliable and stylish sedan with advanced safety features.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-XADIng3WyCOYPC7xeZA9UJ8ogx6SsRXDqUC90RhPKWZxMehWKRqqory1Jt42"
+    },
+    {
+		"p_id":101 ,
+		"p_name": "Mamaearth Onion Shampoo with Onion & Plant Keratin For Hair Fall Control 400ml",
+		"p_cost": 475,
+  		"p_cat": "shampoo",
+  		"p_desc": "natural",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/1005476/mamaearth_onion_shampoo_400_ml_0_0.jpg"
+	},
+	
+	{
+		"p_id":102,
+		"p_name": "mCaffeine Naked & Raw Coffee Shampoo for Hair Fall with Protein & Oil 250ml",
+		"p_cost":424 ,
+  		"p_cat": "Shampoo",
+  		"p_desc": "hairfall shampoo",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/959562/mcaffeine_naked_raw_coffee_shampoo_for_hair_fall_control_with_protein_argan_oil_250_ml_0_0.jpg"
+	},
+	{
+		"p_id": 103,
+		"p_name": "L'Oreal Paris Extraordinary Oil Nourishing Shampoo For Dry & Dull Hair - 340ml",
+		"p_cost": 313,
+  		"p_cat": "Shampoo",
+  		"p_desc": "haircare",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/993298/loreal_paris_6_oil_nourish_shampoo_396_ml_573709_0_1.jpg"
+	},
+	{
+		"p_id": 104,
+		"p_name": "Biotique Green Apple Fresh Daily Purifying Shampoo & Conditioner 190",
+		"p_cost":161 ,
+  		"p_cat": "Shampoo",
+  		"p_desc": "haircare",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/407066/biotique_green_apple_fresh_daily_purifying_shampoo_conditioner_190_ml_0_1.jpg"
+	},
+
+	{
+		"p_id": 105,
+		"p_name": "Himalaya Anti-Dandruff Shampoo with Tea Tree Oil 80 ml",
+		"p_cost": 71,
+  		"p_cat": "Sahmpoo",
+  		"p_desc": "haircare",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/890086/himalaya_anti_dandruff_shampoo_with_tea_tree_oil_80_ml_0_0.jpg"
+	},
+
+	{
+		"p_id": 106,
+		"p_name": "Soulflower Onion Biotin Shampoo 300 ml",
+		"p_cost": 451,
+  		"p_cat": "Shampoo",
+  		"p_desc": "haircare",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/994064/soulflower_onion_biotin_shampoo_300_ml_0_0.jpg"
+	},
+	{
+		"p_id": 107,
+		"p_name": "Jovees Keratin Hair Balance Conditioning Shampoo 125 ml",
+		"p_cost": 192,
+  		"p_cat": "Shampoo",
+  		"p_desc": "haircare",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/962642/jovees_keratin_hair_balance_conditioning_shampoo_125_ml_0_0.jpg"
+	},
+	{
+		"p_id": 108,
+		"p_name": "Yves Rocher Anti-Pollution Detox Miscellar Shampoo 300 ml",
+		"p_cost":420 ,
+  		"p_cat": "Shampoo",
+  		"p_desc": "",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/960279/yves_rocher_anti_pollution_detox_miscellar_shampoo_300_ml_413925_0_1.jpg"
+	},
+	{
+		"p_id": 109,
+		"p_name": "De Fabulous Reviver Shampoo 500 ml",
+		"p_cost": 2160,
+  		"p_cat": "Shampoo",
+  		"p_desc": "haircare",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/960195/de_fabulous_reviver_shampoo_500_ml_0_0.jpg"
+	},
+	{
+		"p_id": 110,
+		"p_name": "OGX Strength & Length Keratin Oil Shampoo 385 ml",
+		"p_cost": 912,
+  		"p_cat": "Shampoo",
+  		"p_desc": "haircare",
+  		"p_img": "https://www.netmeds.com/images/product-v1/150x150/945372/ogx_anti_breakage_keratin_oil_shampoo_385_ml_0_0.jpg"
+	},
+
+	{
+        "p_id": 111,
+        "p_name": "Nissan Rogue",
+        "p_cost": 45000,
+        "p_cat": "Truck",
+        "p_desc": "A stylish and practical luxury SUV.",
+        "p_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlfKvU1OMFNXGJJ-WXrwgxOYdUf9RSJ87a5VemtrlP4H5rozK7U3Y0fsQN7Ziu"
+    },
+    {
+		"p_id": 112,
+		"p_name": "boAt Airdopes 161 ",
+		"p_cost": 1799,
+  		"p_cat": "headset",
+  		"p_desc": "ANC w/ Active Noise Cancellation(32dB),50HRS Playback & ASAP Charge Bluetooth Headset  (Black, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/o/d/r/-original-imagpgwsm6zgtsrj.jpeg?q=70"
+	},
+	{
+		"p_id": 113,
+		"p_name": "Boult X45",
+		"p_cost": 799,
+  		"p_cat": "headset",
+  		"p_desc": "Quad Mic ENC, 40H Playtime, 45ms Ultra Low Latency, Made In India, 5.3 Bluetooth Headset  (Green, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/f/-original-imahy3uqgtzmdsge.jpeg?q=70"
+	},
+	{
+		"p_id": 114,
+		"p_name": "OnePlus Nord Buds 2r",
+		"p_cost":1799 ,
+  		"p_cat": "headset",
+  		"p_desc": "Ear Earbuds with Dual Mic & AI Crystal Clear Call Bluetooth Headset  (Deep Grey, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/w/t/q/-original-imagr4t8zuq2wzhe.jpeg?q=70"
+	},
+	{
+		"p_id": 115,
+		"p_name": "realme Buds Air 5",
+		"p_cost": 3199,
+  		"p_cat": "headset",
+  		"p_desc": "50dB ANC, 12.4mm Dynamic Bass Driver and upto 38 hours Playback Bluetooth Headset  (Deep Sea Blue, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/1/x/j/-original-imagsgfbgrfhy7vm.jpeg?q=70"
+	},
+	{
+		"p_id": 116,
+		"p_name": "realme Buds T110",
+		"p_cost": 1499,
+  		"p_cat": "headset",
+  		"p_desc": "AI ENC for calls, upto 38 hours of Playback and Fast Charging Bluetooth Headset  (Punk Black, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/f/-original-imahy3uqgtzmdsge.jpeg?q=70"
+	},
+{
+		"p_id": 117,
+		"p_name": "OnePlus Buds 3 TWS",
+		"p_cost": 4999,
+  		"p_cat": "headset",
+  		"p_desc": " in Ear Earbuds with Sliding Volume Control and 49dB ANC Bluetooth Gaming Headset  (Metallic Gray IN, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/e/h/buds-3-e509a-oneplus-original-imagwynyzms78bsg.jpeg?q=70"
+	},
+{
+		"p_id": 118,
+		"p_name": "CMF by Nothing Buds",
+		"p_cost": 2499,
+  		"p_cat": "headset",
+  		"p_desc": "42 dB Active Noise Cancellation, Ultra Bass Technology, 35.5 Hrs playtime Bluetooth Headset  (Dark Grey, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/v/0/-original-imahyfkkyamsjxn8.jpeg?q=70"
+	},
+{
+		"p_id": 119,
+		"p_name": "Mivi DuoPods i2",
+		"p_cost": 999,
+  		"p_cat": "headset",
+  		"p_desc": "TWS,13mm Bass,45H Playtime,Dual Mic AI ENC,Low Latency,Type C,5.3 Bluetooth Headset  (Black, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/l/a/7/-original-imagx8s5etjezqym.jpeg?q=70"
+	},
+{
+		"p_id": 120,
+		"p_name": "realme Buds T110",
+		"p_cost": 1499,
+  		"p_cat": "headset",
+  		"p_desc": " AI ENC for calls, upto 38 hours of Playback and Fast Charging Bluetooth Headset  (Punk Black, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/a/5/0/-original-imahy3uqdmgx6qey.jpeg?q=70"
+	},
+    {
+		"p_id": 121,
+		"p_name": "OnePlus Nord Buds 2",
+		"p_cost": 2494,
+  		"p_cat": "headset",
+  		"p_desc": "25dB Active Noise Cancellation Bluetooth Headset  (Thunder Gray, True Wireless)",
+  		"p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/v/m/nord-buds-2-oneplus-original-imagnwf7sgjetqwg.jpeg?q=70"
+	},
+    {
+        "p_id": 122,
+        "p_name": "Bentley Bentayga",
+        "p_cost": 55000,
+        "p_cat": "Luxury",
+        "p_desc": "A durable and capable full-size pickup truck.",
+        "p_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCqf_Ba0C1KMej4VfPo-qMpHNHd9jd8gZ4FxPGTPS4NAQYdvM2jgu5bqdh4F59"
+    },
+    {
+		"p_id": 123,
+		"p_name": " Solimo Portable Tyre Inflator",
+		"p_cost":1249 ,
+  		"p_cat": "electronics",
+  		"p_desc": "With dimensions of 17.5 x 18.5 x 7.5cm, it is easily portable and saves car space Fast refill with a filling time of ~5 minutes Works on 12V power supply, readily available in the car’s cigarette power outlet Electric wire of length 265 cm and 62 cm long hose for convenient refilling LED bulb to facilitate usage in the dark",
+  		"p_img": "https://m.media-amazon.com/images/I/81icg54oMsL.AC_UL320.jpg"
+	},
+{
+		"p_id": 124,
+		"p_name": "amazon basics tyre inflator",
+		"p_cost": 2448,
+  		"p_cat": "electronics",
+  		"p_desc": "Compact 12-volt portable tyre inflator for adding air to tyres; plugs into cigarette lighter port For tyres with a 120 PSI rating; 22 L/M free flow at 0 PSI 10-foot power cord reaches all tyres comfortably Long 23.6-inch air hose easily reaches all tyres",
+  		"p_img": "https://m.media-amazon.com/images/I/71v6o+eJLdL.AC_UL320.jpg"
+	},
+    {
+		"p_id": 125,
+		"p_name": "Bergmann Stunner Car Vacuum Cleaner",
+		"p_cost": 1633,
+  		"p_cat": "electronics",
+  		"p_desc": "150W Powerful Suction | Stainless Steel Lifelong HEPA Filter | Sleek Mirror Finish Body | 100% Copper Motor | 5m Power Cord | 3 Attachments + Storage Bag | Black",
+  		"p_img": "https://m.media-amazon.com/images/I/71RVlMswpgL.AC_UL320.jpg"
+	},{
+		"p_id":126 ,
+		"p_name": "TUSA Digital Tyre Inflator for Car",
+		"p_cost": 2522,
+  		"p_cat": "electronics",
+  		"p_desc": "12V DC Portable Air Compressor Pump with LED Light",
+  		"p_img": "https://m.media-amazon.com/images/I/51fr1j9g5JL.AC_UL320.jpg"
+	},{
+		"p_id": 127,
+		"p_name": "Bergmann Typhoon Heavy Duty Metal Car Tyre Inflator Blue",
+		"p_cost": 2023,
+  		"p_cat": "electronics",
+  		"p_desc": " Most plastic body air compressors are fragile, noisy and not able to radiate out the heat generated during compression. This results in increased wear and tear of the inner parts. Metal air compressors are stronger, sturdier, can radiate heat better and have much lower noise and vibration.",
+  		"p_img": "https://m.media-amazon.com/images/I/818kmzObgCL.AC_UL320.jpg"
+	},{
+		"p_id": 128,
+		"p_name": "Woscher 1610 Portable Mini Tyre Inflator",
+		"p_cost": 1079,
+  		"p_cat": "electronics",
+  		"p_desc": "with Storage Bag, Car Tyre Inflator Pump with Large Analogue Display & Built-in LED Light, 12V DC 100 PSI Tyre Air Pump for Bike, Cycle, Scooter & Car, Black",
+  		"p_img": "https://m.media-amazon.com/images/I/71aYn8AabuL.AC_UL320.jpg"
+	},{
+		"p_id": 129,
+		"p_name": "amazon basics Compact Portable 12V 150 PSI Digital Tyre Inflator with Carrying Case",
+		"p_cost": 2448,
+  		"p_cat": "electronics",
+  		"p_desc": "Compact 12-volt portable tyre inflator for adding air to tyres; plugs into cigarette lighter port For tyres with a 120 PSI rating; 22 L/M free flow at 0 PSI",
+  		"p_img": "https://m.media-amazon.com/images/I/71v6o+eJLdL.AC_UL320.jpg"
+	},{
+		"p_id": 130,
+		"p_name": "MICHELIN 12266 High Power Rapid Tyre Inflator",
+		"p_cost": 3995,
+  		"p_cat": "electronics",
+  		"p_desc": "re-Set, USB Mobile Charging, 12V DC socket, LED Lights, and large back lit display",
+  		"p_img": "https://m.media-amazon.com/images/I/51tzGnH9+tL.AC_UL320.jpg"
+	},{
+		"p_id": 131,
+		"p_name": "Woscher 801 Rapid Performance Car Tyre Inflator",
+		"p_cost": 1449,
+  		"p_cat": "electronics",
+  		"p_desc": "Portable 12V Air Compressor for Car Pump with LED Light | Air Pump for Car| Car Air Pump for Tyres",
+  		"p_img": "https://m.media-amazon.com/images/I/71RmTcs1K0L.AC_UL320.jpg"
+	},{
+		"p_id": 132,
+		"p_name": "Solimo Portable Tyre Inflator, 12V (Black)",
+		"p_cost": 1249,
+  		"p_cat": "electronics",
+  		"p_desc": " With dimensions of 17.5  18.5  7.5cm it is easily portable and saves car space Fast refill with a filling time of ~5 minutes Works on 12V power supply readily available in the cars cigarette power outlet",
+  		"p_img": "https://m.media-amazon.com/images/I/81icg54oMsL.AC_UL320.jpg"
+	},
+        {
+            "p_id":133 ,
+            "p_name": "Mamaearth Onion Shampoo with Onion & Plant Keratin For Hair Fall Control 400ml",
+            "p_cost": 475,
+              "p_cat": "shampoo",
+              "p_desc": "natural",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/1005476/mamaearth_onion_shampoo_400_ml_0_0.jpg"
+        },
+        
+        {
+            "p_id":134,
+            "p_name": "mCaffeine Naked & Raw Coffee Shampoo for Hair Fall with Protein & Oil 250ml",
+            "p_cost":424 ,
+              "p_cat": "Shampoo",
+              "p_desc": "hairfall shampoo",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/959562/mcaffeine_naked_raw_coffee_shampoo_for_hair_fall_control_with_protein_argan_oil_250_ml_0_0.jpg"
+        },
+        {
+            "p_id": 135,
+            "p_name": "L'Oreal Paris Extraordinary Oil Nourishing Shampoo For Dry & Dull Hair - 340ml",
+            "p_cost": 313,
+              "p_cat": "Shampoo",
+              "p_desc": "haircare",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/993298/loreal_paris_6_oil_nourish_shampoo_396_ml_573709_0_1.jpg"
+        },
+        {
+            "p_id": 136,
+            "p_name": "Biotique Green Apple Fresh Daily Purifying Shampoo & Conditioner 190",
+            "p_cost":161 ,
+              "p_cat": "Shampoo",
+              "p_desc": "haircare",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/407066/biotique_green_apple_fresh_daily_purifying_shampoo_conditioner_190_ml_0_1.jpg"
+        },
+    
+        {
+            "p_id": 137,
+            "p_name": "Himalaya Anti-Dandruff Shampoo with Tea Tree Oil 80 ml",
+            "p_cost": 71,
+              "p_cat": "Sahmpoo",
+              "p_desc": "haircare",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/890086/himalaya_anti_dandruff_shampoo_with_tea_tree_oil_80_ml_0_0.jpg"
+        },
+    
+        {
+            "p_id": 138,
+            "p_name": "Soulflower Onion Biotin Shampoo 300 ml",
+            "p_cost": 451,
+              "p_cat": "Shampoo",
+              "p_desc": "haircare",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/994064/soulflower_onion_biotin_shampoo_300_ml_0_0.jpg"
+        },
+        {
+            "p_id": 139,
+            "p_name": "Jovees Keratin Hair Balance Conditioning Shampoo 125 ml",
+            "p_cost": 192,
+              "p_cat": "Shampoo",
+              "p_desc": "haircare",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/962642/jovees_keratin_hair_balance_conditioning_shampoo_125_ml_0_0.jpg"
+        },
+        {
+            "p_id": 140,
+            "p_name": "Yves Rocher Anti-Pollution Detox Miscellar Shampoo 300 ml",
+            "p_cost":420 ,
+              "p_cat": "Shampoo",
+              "p_desc": "",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/960279/yves_rocher_anti_pollution_detox_miscellar_shampoo_300_ml_413925_0_1.jpg"
+        },
+        {
+            "p_id": 141,
+            "p_name": "De Fabulous Reviver Shampoo 500 ml",
+            "p_cost": 2160,
+              "p_cat": "Shampoo",
+              "p_desc": "haircare",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/960195/de_fabulous_reviver_shampoo_500_ml_0_0.jpg"
+        },
+        {
+            "p_id": 142,
+            "p_name": "OGX Strength & Length Keratin Oil Shampoo 385 ml",
+            "p_cost": 912,
+              "p_cat": "Shampoo",
+              "p_desc": "haircare",
+              "p_img": "https://www.netmeds.com/images/product-v1/150x150/945372/ogx_anti_breakage_keratin_oil_shampoo_385_ml_0_0.jpg"
+        },
+        {"p_id":143,"p_name":"Classic Blue Denim Jacket","p_cost":"49.99","p_cat":"Outerwear","p_desc":"A timeless denim jacket with a fitted silhouette and button-down front.","p_image":"https://wrogn.com/cdn/shop/files/1_9672a966-11bd-49ef-af31-0c5dea075336.jpg?v=1704541876&width=550"},
+        {"p_id":144,"p_name":"Black Leather Biker Jacket","p_cost":"129.99","p_cat":"Outerwear","p_desc":"Edgy and cool, this black leather biker jacket is perfect for adding some attitude to your outfit.","p_image":"https://wrogn.com/cdn/shop/files/1_c9d40f7a-5fb9-4b48-baf9-1a378e542382.jpg?v=1704541064&width=375"},
+        {"p_id":145,"p_name":"Red Plaid Flannel Shirt","p_cost":"34.99","p_cat":"Tops","p_desc":"Comfortable and stylish, this red plaid flannel shirt is great for casual wear.","p_image":"https://wrogn.com/cdn/shop/files/1_8cf28334-c433-4cdd-b1ec-4c8d2176aa08.jpg?v=1710145987&width=375"},
+        {"p_id":146,"p_name":"V-Neck T-Shirt","p_cost":"14.99","p_cat":"Tops","p_desc":"A classic V-neck t-shirt made from soft, breathable cotton.","p_image":"https://wrogn.com/cdn/shop/files/1_031c878b-4bfc-42ed-af15-53903a2b1a2a.jpg?v=1704542207&width=375"},
+        {"p_id":147,"p_name":"High-Waisted Skinny Jeans","p_cost":"59.99","p_cat":"Bottoms","p_desc":"These high-waisted skinny jeans are both flattering and versatile.","p_image":"https://wrogn.com/cdn/shop/files/1_16a01858-977e-4ddf-bd2f-c26eb023e339.jpg?v=1704541122&width=375"},
+        {"p_id":148,"p_name":"Black Pencil Skirt","p_cost":"39.99","p_cat":"Bottoms","p_desc":"A chic black pencil skirt that's perfect for the office or a night out.","p_image":"https://www.sassafras.in/cdn/shop/products/SFSKRT30303-1.jpg?v=1684764581"},
+        {"p_id":149,"p_name":"Grey Wool Coat","p_cost":"199.99","p_cat":"Outerwear","p_desc":"Stay warm and stylish with this elegant grey wool coat.","p_image":"https://xcdn.next.co.uk/common/items/default/default/publications/g85/shotzoom/2016/d63-495s.jpg?im=Resize,width=364"},
+        {"p_id":150,"p_name":"Beige Trench Coat","p_cost":"89.99","p_cat":"Outerwear","p_desc":"A classic beige trench coat with a belted waist and double-breasted front.","p_image":"https://d1fufvy4xao6k9.cloudfront.net/looks/1096/casualtrenchcoat.jpg"},
+        {"p_id":151,"p_name":"Blue Chambray Shirt","p_cost":"29.99","p_cat":"Tops","p_desc":"This blue chambray shirt is perfect for a laid-back, casual look.","p_image":"https://assets.ajio.com/medias/sys_master/root/h7e/h1f/14259299188766/-473Wx593H-460493180-blue-MODEL.jpg"},
+        {"p_id":152,"p_name":"Black Ankle Boots","p_cost":"79.99","p_cat":"Footwear","p_desc":"Stylish black ankle boots with a low heel and zip closure.","p_image":"https://assets.ajio.com/medias/sys_master/root/20240307/pxRr/65e9b09616fd2c6e6a429997/-473Wx593H-467065508-black-MODEL.jpg"},
+        {"p_id":153,"p_name":"White Sneakers","p_cost":"49.99","p_cat":"Footwear","p_desc":"Classic white sneakers that pair well with almost any outfit.","p_image":"https://assets.ajio.com/medias/sys_master/root/20240529/oY6b/665682d616fd2c6e6a33c107/-473Wx593H-700021192-white-MODEL.jpg"},
+        {"p_id":154,"p_name":"Red Maxi Dress","p_cost":"89.99","p_cat":"Dresses","p_desc":"A stunning red maxi dress with a flowing silhouette and spaghetti straps.","p_image":"https://assets.ajio.com/medias/sys_master/root/20220915/PhaQ/63230d3baeb269dbb38cfdef/-473Wx593H-441141404-red-MODEL.jpg"},
+        {"p_id":155,"p_name":"Black Blazer","p_cost":"69.99","p_cat":"Outerwear","p_desc":"A versatile black blazer that's perfect for work or formal events.","p_image":"https://assets.ajio.com/medias/sys_master/root/20230306/r6A2/6405fbf7aeb26924e3a5d4a0/-473Wx593H-460746094-black-MODEL.jpg"},
+        {"p_id":156,"p_name":"Grey Knit Sweater","p_cost":"54.99","p_cat":"Tops","p_desc":"Cozy and warm, this grey knit sweater is perfect for cooler days.","p_image":"https://assets.ajio.com/medias/sys_master/root/20240118/LhGD/65a855438cdf1e0df5bdb47a/-473Wx593H-466990981-grey-MODEL.jpg"},
+        {"p_id":157,"p_name":"Striped Turtleneck Sweater","p_cost":"39.99","p_cat":"Tops","p_desc":"A chic striped turtleneck sweater that adds a touch of elegance to any outfit.","p_image":"https://assets.ajio.com/medias/sys_master/root/20230616/nn2m/648c57b542f9e729d7473566/-473Wx593H-443012959-olive-MODEL.jpg"},
+        {"p_id":158,"p_name":"Pink Floral Dress","p_cost":"74.99","p_cat":"Dresses","p_desc":"A pretty pink floral dress with a fitted bodice and flared skirt.","p_image":"https://assets.ajio.com/medias/sys_master/root/20230626/kwhz/64999445a9b42d15c9f305ae/-473Wx593H-466308147-pink-MODEL.jpg"},
+        {"p_id":159,"p_name":"Black Combat Boots","p_cost":"89.99","p_cat":"Footwear","p_desc":"Sturdy black combat boots with a lace-up front and rugged sole.","p_image":"https://assets.ajio.com/medias/sys_master/root/20240516/Zgw2/66460c6805ac7d77bb62b5a5/-473Wx593H-467339243-black-MODEL.jpg"},
+        {"p_id":160,"p_name":"Blue Ripped Jeans","p_cost":"69.99","p_cat":"Bottoms","p_desc":"Trendy blue ripped jeans with a relaxed fit and distressed details.","p_image":"https://assets.ajio.com/medias/sys_master/root/20240520/duPQ/664b7b3616fd2c6e6a12b2d0/-473Wx593H-467342991-blue-MODEL.jpg"},
+        {"p_id":161,"p_name":"Black Leggings","p_cost":"24.99","p_cat":"Bottoms","p_desc":"Comfortable and versatile black leggings made from stretch fabric.","p_image":"https://assets.ajio.com/medias/sys_master/root/20210804/o2Tw/6109c7a6aeb269a2686746d2/-473Wx593H-460933845-black-MODEL.jpg"},
+        {"p_id":162,"p_name":"Navy Blue Hoodie","p_cost":"39.99","p_cat":"Tops","p_desc":"A cozy navy blue hoodie with a drawstring hood and kangaroo pocket.","p_image":"https://assets.ajio.com/medias/sys_master/root/20240211/x6vc/65c8f6a116fd2c6e6aeff1f6/-473Wx593H-467062693-navy-MODEL.jpg"},
+        {"p_id":163,"p_name":"Black High Heels","p_cost":"69.99","p_cat":"Footwear","p_desc":"Elegant black high heels with a pointed toe and stiletto heel.","p_image":"https://assets.ajio.com/medias/sys_master/root/20231023/L7bw/653580e3ddf7791519529207/-473Wx593H-466737517-black-MODEL.jpg"},
+        {"p_id":164,"p_name":"White Dress Shirt","p_cost":"49.99","p_cat":"Tops","p_desc":"A crisp white dress shirt with a tailored fit and button-down front.","p_image":"https://assets.ajio.com/medias/sys_master/root/20231205/LBwK/656ed464afa4cf41f5b4f71c/-473Wx593H-462323964-white-MODEL.jpg"},
+        {"p_id":165,"p_name":"Blue Hoodie Set","p_cost":"29.99","p_cat":"Dresses","p_desc":"A stylish blue hoodie set with a halter top and high-cut bottoms.","p_image":"https://assets.ajio.com/medias/sys_master/root/20220809/Nh5L/62f27febaeb26921afd7471a/-473Wx593H-469148081-blue-MODEL3.jpg"},
+        {"p_id":166,"p_name":"Grey Jogger Pants","p_cost":"34.99","p_cat":"Bottoms","p_desc":"Comfortable grey jogger pants with an elastic waistband and cuffs.","p_image":"https://assets.ajio.com/medias/sys_master/root/20240501/wKAK/6632875316fd2c6e6adfe764/-473Wx593H-467291293-grey-MODEL.jpg"}
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+]
